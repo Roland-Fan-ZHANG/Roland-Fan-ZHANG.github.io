@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,36 +46,26 @@ interests:
   - Information Retrieval
 
 education:
-  - area: Engineer's Degree in Computer Science & Software Development
+  - area: M.Sc. in Computer Science & Software Development
     institution: Gustave Eiffel University
-    date_start: 2023
-    date_end: 2026
+    date_start: 2023-10-02
+    date_end: 2026-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Specialization in Networking.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Bachelor's Degree in Digital Media and Web Technologies
+  - area: B.Sc. in Digital Media and Web Technologies
     institution: Gustave Eiffel University
-    date_start: 2020
-    date_end: 2023
+    date_start: 2020-09-04
+    date_end: 2023-07-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Specialization in Web and Mobile Development.
   - area: French Baccalauréat
     institution: Lycée Charles de Gaulle
-    date_end: 2020
+    date_end: 2020-07-04
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Graduated with honors.
 work:
   - position: Full Stack Software Engineer
     company_name: Airbus

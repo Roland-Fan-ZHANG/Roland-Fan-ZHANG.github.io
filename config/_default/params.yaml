@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Roland ZHANG"
+      text: "Roland Zhang"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Roland ZHANG. This work is licensed under {license}'
+    notice: '© {year} Roland Zhang'
     license:
       enable: true
       allow_derivatives: false
