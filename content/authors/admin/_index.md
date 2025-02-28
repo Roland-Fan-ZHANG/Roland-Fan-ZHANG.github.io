@@ -46,19 +46,19 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Engineer's Degree in Computer Science & Software Development
+    institution: Gustave Eiffel University
+    date_start: 2023
+    date_end: 2026
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor's Degree in Digital Media and Web Technologies
+    institution: Gustave Eiffel University
+    date_start: 2020
+    date_end: 2023
     summary: |
       GPA: 3.8/4.0
 
@@ -66,10 +66,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: French Baccalauréat
+    institution: Lycée Charles de Gaulle
+    date_end: 2020
     summary: |
       GPA: 3.4/4.0
       
@@ -78,23 +77,23 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Full Stack Software Engineer
+    company_name: Airbus
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-09
+    date_end: '2025-03'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: C#/.NET Developer
+    company_name: IUT de Marne-la-Vallée
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-04
+    date_end: 2022-6
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
