@@ -81,8 +81,8 @@ work:
     company_name: Airbus
     company_url: ''
     company_logo: ''
-    date_start: 2023-09
-    date_end: '2025-03'
+    date_start: 2023-10-01
+    date_end: 2025-03-01
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -92,8 +92,8 @@ work:
     company_name: IUT de Marne-la-Vallée
     company_url: ''
     company_logo: ''
-    date_start: 2022-04
-    date_end: 2022-6
+    date_start: 2022-04-01
+    date_end: 2022-06-30
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
