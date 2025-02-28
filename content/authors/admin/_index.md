@@ -33,23 +33,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:roland.zhang.pro@gmail.com'
     label: E-mail Me
-    <!--
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-    -->
   - icon: brands/instagram
     url: https://www.instagram.com/roland.heif
   - icon: brands/github
     url: https://github.com/Roland-Fan-ZHANG
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/roland-zhang
-    <!--
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-    -->
-    
+
 interests:
   - Artificial Intelligence
   - Computational Linguistics
