@@ -55,7 +55,7 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: B.Sc. in Digital Media and Web Technologies
+  - area: B.Sc. in Digital Media & Web Tech
     institution: Gustave Eiffel University
     date_start: 2020-09-04
     date_end: 2023-07-01
